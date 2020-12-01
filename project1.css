@@ -137,9 +137,13 @@ body{
         /* display: inline-block; */
         font-weight: 500;
     }
-    .nav__links{
+    /* .nav__links{
         text-decoration: none;
         color: #000;
+    } */
+    .header__main{
+        font-size: 20px;
+        padding: 20px 0;
     }
     .parent {
         grid-template-columns: repeat(1, 1fr);
