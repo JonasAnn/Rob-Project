@@ -126,6 +126,10 @@ body{
         font-size: 20px;
         padding: 20px 0;
     }
+    .figcaption__header{
+        font-weight: 600;
+        font-size: 15px;
+    }
     .parent {
         grid-template-columns: repeat(1, 1fr);
         grid-template-rows: repeat(6, 1fr);
@@ -139,11 +143,6 @@ body{
         grid-template-columns: 1fr;
         grid-template-rows: repeat(4, 1fr);    
 
-    }
-    
-    .cont__images{
-        grid-template-columns: repeat(1, 1fr);
-        grid-template-rows: repeat(6, 1fr); 
     }
     
   }
